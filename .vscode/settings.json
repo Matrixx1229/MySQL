@@ -16,5 +16,11 @@
             "connectionTimeout": 30
         }
     ],
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "cSpell.words": [
+        "employess",
+        "favoraite",
+        "Freberg",
+        "Shawshank"
+    ]
 }
