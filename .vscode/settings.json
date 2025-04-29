@@ -15,5 +15,6 @@
             "password": "RPNEW@77098",
             "connectionTimeout": 30
         }
-    ]
+    ],
+    "editor.fontSize": 16
 }
