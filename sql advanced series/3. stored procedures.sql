@@ -1,3 +1,5 @@
+USE parks_and_recreation;
+
 SELECT * FROM employee_salary
 WHERE salary >= 50000;
 
