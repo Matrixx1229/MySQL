@@ -1,4 +1,4 @@
-
+USE parks_and_recreation;
 WITH CTE_Example (Gender, AVG_Sal, MAX_Sal,MIN_Sal, COUNT_Sal) AS (
     select
         gender,
@@ -65,3 +65,4 @@ select
 from
     CTE_Example
     join CTE_Example2 ON CTE_Example.employee_id = CTE_Example2.employee_id;
+
