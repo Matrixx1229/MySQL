@@ -1,4 +1,6 @@
+USE parks_and_recreation;
 -- Temporary Tables
+
 CREATE TEMPORARY TABLE temp_table (
     first_name varchar(50),
     last_name varchar(50),
