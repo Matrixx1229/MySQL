@@ -61,6 +61,7 @@ DELETE FROM employee_demographics
 WHERE
     age >= 60;
 END $$
-DELIMITER ;
+DELIMITER ; -- can schedule the events to run at a specific time or interval
+-- can also set the event to run once or repeatedly 
 
 SHOW VARIABLES LIKE 'event%';  
